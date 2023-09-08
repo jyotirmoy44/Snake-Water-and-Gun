@@ -1,0 +1,11 @@
+* {
+    margin: 20px;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    text-decoration: none;
+    background-color: aqua;
+    font-weight: 600;
+}
